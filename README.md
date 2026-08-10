@@ -28,7 +28,7 @@ Used Excel tools to organise and explore datasets effectively:
 - Working with structured retail and sales datasets
 
 <img width="720" height="350" alt="Screenshot 2026-07-01 122308" src="https://github.com/user-attachments/assets/f3ae9ffb-63e2-4e9a-83f7-c89634a7bbbd" />
-<img width="730" height="155" alt="Screenshot 2026-07-01 155926" src="https://github.com/user-attachments/assets/188889b7-0daa-4480-9b02-2c3c8be05354" />
+
 
 
 ### PivotTables
@@ -38,3 +38,5 @@ Created PivotTables to:
 - Compare sales across different categories
 - Analyse customer demographics and sales trends
 - Generate quick insights from large
+
+<img width="730" height="155" alt="Screenshot 2026-07-01 155926" src="https://github.com/user-attachments/assets/188889b7-0daa-4480-9b02-2c3c8be05354" />
