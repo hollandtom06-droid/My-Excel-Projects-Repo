@@ -27,6 +27,9 @@ Used Excel tools to organise and explore datasets effectively:
 - Data validation and categorisation
 - Working with structured retail and sales datasets
 
+<img width="952" height="600" alt="Screenshot 2026-07-01 122308" src="https://github.com/user-attachments/assets/f3ae9ffb-63e2-4e9a-83f7-c89634a7bbbd" />
+
+
 ### PivotTables
 Created PivotTables to:
 
