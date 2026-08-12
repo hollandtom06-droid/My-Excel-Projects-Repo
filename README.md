@@ -1,42 +1,112 @@
 # My-Excel-Projects-Repo
 
-# Excel Data Analysis Project
+# Retail & Sales Data Analysis with Excel
 
 ## Overview
-This project was completed as part of a **Data Technician Bootcamp** and demonstrates key Microsoft Excel skills used to analyse retail and sales datasets. The work involved cleaning, organising, summarising, and visualising data to identify trends and generate business insights.
+
+This project was completed as part of a Data Technician Bootcamp and demonstrates the use of Microsoft Excel to analyse retail and sales data. The project focuses on data preparation, formula creation, data exploration, reporting, and visualisation techniques commonly used in business and data analysis environments.
+
+## Objectives
+
+- Analyse retail and sales datasets using Excel
+- Create dynamic reports using formulas and functions
+- Summarise large datasets with PivotTables
+- Identify trends and performance insights through data visualisation
+- Develop practical spreadsheet skills used in data technician roles
 
 ## Skills Demonstrated
 
+### Data Cleaning & Organisation
+- Structured and organised retail sales datasets
+- Applied filtering to focus on specific records and categories
+- Used sorting to rank products, regions, and sales performance
+- Improved data readability and usability for analysis
+
 ### Excel Formulas & Functions
-Applied a range of Excel formulas and functions to perform calculations, analyse data, and automate tasks:
 
-- `SUM()` for total sales calculations
-- `SUMIF()` for conditional aggregation
-- `AVERAGE()` for overall performance analysis
-- `AVERAGEIF()` for conditional averages
-- `DATE()`, `MONTH()`, and `YEAR()` for date-based analysis
-- `UNIQUE()` to identify distinct values and categories
-- `VLOOKUP()` to retrieve and match related information across datasets
-- `SWITCH()` to categorise sales volumes into meaningful groups
+Applied a variety of Excel formulas to calculate, transform, and analyse data, including:
 
-### Data Management
-Used Excel tools to organise and explore datasets effectively:
+#### Mathematical Functions
+- `SUM()`
+- `SUMIF()`
+- `AVERAGE()`
+- `AVERAGEIF()`
 
-- Data filtering to isolate specific records
-- Sorting data by various criteria
-- Data validation and categorisation
-- Working with structured retail and sales datasets
+#### Date Functions
+- `DATE()`
+- `MONTH()`
+- `YEAR()`
 
-<img width="720" height="350" alt="Screenshot 2026-07-01 122308" src="https://github.com/user-attachments/assets/f3ae9ffb-63e2-4e9a-83f7-c89634a7bbbd" />
+#### Lookup & Dynamic Functions
+- `VLOOKUP()`
+- `UNIQUE()`
 
+#### Logical Functions
+- `SWITCH()`
 
+These functions were used to automate calculations, categorise records, extract insights, and improve reporting efficiency.
 
-### PivotTables
+### Data Analysis
+
+- Analysed product and sales performance across different regions
+- Compared sales volumes between products and locations
+- Aggregated data to identify trends and patterns
+- Produced summaries to support business decision-making
+
+### PivotTables & Reporting
+
 Created PivotTables to:
 
-- Summarise sales performance by product and location
-- Compare sales across different categories
-- Analyse customer demographics and sales trends
-- Generate quick insights from large
+- Summarise sales by product, region, and category
+- Compare performance across multiple dimensions
+- Generate interactive reports
+- Quickly identify top-performing products and markets
 
-<img width="730" height="155" alt="Screenshot 2026-07-01 155926" src="https://github.com/user-attachments/assets/188889b7-0daa-4480-9b02-2c3c8be05354" />
+PivotTables enabled efficient exploration of large retail datasets and provided meaningful business insights. 【1-065108】
+
+### Product Categorisation with SWITCH
+
+Used the `SWITCH()` function to:
+
+- Classify products based on sales performance
+- Create automated categories such as High, Medium, and Low sales volumes
+- Improve data interpretation and reporting accuracy
+
+This helped transform raw sales figures into meaningful business classifications. 【1-065108】
+
+### Data Visualisation
+
+Created charts and visual reports to communicate findings, including:
+
+- Column charts
+- PivotCharts
+- Sales comparison charts
+- Category performance visualisations
+
+Visualisations were used to highlight trends, compare sales performance, and present insights in a clear and accessible format. 【1-065108】
+
+## Technologies Used
+
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Excel Formulas & Functions
+- Data Visualisation Tools
+
+## Key Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Analysing retail and sales datasets
+- Building reports using Excel formulas and functions
+- Using VLOOKUP and UNIQUE for data retrieval and analysis
+- Applying date functions for time-based reporting
+- Filtering and sorting large datasets efficiently
+- Creating PivotTables for business reporting
+- Categorising data using logical functions such as SWITCH
+- Producing professional charts and dashboards
+- Communicating insights through data visualisation
+
+## Project Outcome
+
+This project demonstrates the end-to-end process of analysing retail and sales data using Microsoft Excel. By combining formulas, PivotTables, filtering, sorting, and data visualisation techniques, the project showcases essential spreadsheet and analytical skills developed during the Data Technician Bootcamp and reflects real-world business reporting practices.
