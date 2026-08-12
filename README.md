@@ -36,8 +36,6 @@ Examples below -
 
 <img width="119" height="37" alt="image" src="https://github.com/user-attachments/assets/f2a3a007-4a70-41ff-8389-61bc50012d46" />
 This would add everything from cells A1 to A5
-
-
 <img width="169" height="23" alt="image" src="https://github.com/user-attachments/assets/1f56f8b2-b222-4b0a-92ed-a4ffca82e3cc" />
 This would add only the numbers that are greater than 10 from cells A1 to A5
 
