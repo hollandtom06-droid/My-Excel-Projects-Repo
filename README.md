@@ -32,6 +32,11 @@ Applied a variety of Excel formulas to calculate, transform, and analyse data, i
 - `AVERAGE()`
 - `AVERAGEIF()`
 
+Examples below - 
+
+<img width="119" height="37" alt="image" src="https://github.com/user-attachments/assets/f2a3a007-4a70-41ff-8389-61bc50012d46" />
+This would add everything from cells A1 to A5
+
 #### Date Functions
 - `DATE()`
 - `MONTH()`
