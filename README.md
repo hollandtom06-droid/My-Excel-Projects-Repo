@@ -36,15 +36,20 @@ Examples below -
 
 <img width="119" height="37" alt="image" src="https://github.com/user-attachments/assets/f2a3a007-4a70-41ff-8389-61bc50012d46" />
 
-This would add everything from cells A1 to A5
+This would add everything from cells A1 to A5.
 
 <img width="169" height="23" alt="image" src="https://github.com/user-attachments/assets/1f56f8b2-b222-4b0a-92ed-a4ffca82e3cc" />
 
-This would add only the numbers that are greater than 10 from cells A1 to A5
+This would add only the numbers that are greater than 10 from cells A1 to A5.
 
 <img width="149" height="26" alt="image" src="https://github.com/user-attachments/assets/c55c775a-d9ed-42c5-b605-6ea6915f3662" />
 
-This would find the average of A1 to A5
+This would find the average of A1 to A5.
+
+<img width="202" height="31" alt="image" src="https://github.com/user-attachments/assets/e9c55abd-6d2a-41d3-9480-c2417f79fe66" />
+
+This would find the average of only the numbers that are greater than 10.
+
 
 
 
