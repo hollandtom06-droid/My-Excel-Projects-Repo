@@ -42,6 +42,11 @@ This would add everything from cells A1 to A5
 
 This would add only the numbers that are greater than 10 from cells A1 to A5
 
+<img width="149" height="26" alt="image" src="https://github.com/user-attachments/assets/c55c775a-d9ed-42c5-b605-6ea6915f3662" />
+
+This would find the average of A1 to A5
+
+
 
 
 #### Date Functions
