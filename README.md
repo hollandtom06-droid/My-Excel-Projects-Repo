@@ -63,6 +63,18 @@ This would find the average of only the numbers that are greater than 10.
 - `VLOOKUP()`
 - `UNIQUE()`
 
+'VLOOKUP()' is used in order to look for a value through certain cells and then to be given that information. Example below - 
+
+<img width="279" height="23" alt="image" src="https://github.com/user-attachments/assets/952f7eea-c4d0-4579-886c-27b7a85c5e80" />
+
+'FALSE' is simply used to return the exact match, which in this example would be 'John'. 'TRUE' would be used if you wanted a approximate match. 
+
+'UNIQUE()' on the other hand is simply used to remove duplicates and just returns the items that are present without repeating how many times they're seen. Example below - 
+
+<img width="134" height="25" alt="image" src="https://github.com/user-attachments/assets/20f07b0e-c4e8-4654-93f2-694d3bcc8939" />
+
+
+
 #### Logical Functions
 - `SWITCH()`
 
