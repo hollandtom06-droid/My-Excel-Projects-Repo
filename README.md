@@ -64,6 +64,9 @@ Created PivotTables to:
 
 PivotTables enabled efficient exploration of large retail datasets and provided meaningful business insights. 【1-065108】
 
+<img width="730" height="155" alt="Screenshot 2026-07-01 155926" src="https://github.com/user-attachments/assets/188889b7-0daa-4480-9b02-2c3c8be05354" />
+
+
 ### Product Categorisation with SWITCH
 
 Used the `SWITCH()` function to:
@@ -84,6 +87,8 @@ Created charts and visual reports to communicate findings, including:
 - Category performance visualisations
 
 Visualisations were used to highlight trends, compare sales performance, and present insights in a clear and accessible format. 【1-065108】
+
+<img width="720" height="350" alt="Screenshot 2026-07-01 122308" src="https://github.com/user-attachments/assets/f3ae9ffb-63e2-4e9a-83f7-c89634a7bbbd" />
 
 ## Technologies Used
 
